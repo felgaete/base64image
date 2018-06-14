@@ -1,8 +1,12 @@
 {
   "name": "@felgaete/base64image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base64Image plugin for CKEditor 4. Based on https://github.com/nmmf/base64image",
-  "keywords": ["base64", "image plugin", "ckeditor"],
+  "keywords": [
+    "base64",
+    "image plugin",
+    "ckeditor"
+  ],
   "license": "MIT",
   "repository": "github:felgaete/base64image",
   "author": "nmmf (https://github.com/nmmf)",
