@@ -7,6 +7,6 @@
   "repository": "github:felgaete/base64image",
   "author": "nmmf (https://github.com/nmmf)",
   "dependencies": {
-    "ckeditor": "^4.7.3"
+    "ckeditor": "^4.7.0"
   }
 }
