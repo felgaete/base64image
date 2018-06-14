@@ -5,5 +5,8 @@
   "keywords": ["base64", "image plugin", "ckeditor"],
   "license": "MIT",
   "repository": "github:felgaete/base64image",
-  "author": "nmmf (https://github.com/nmmf)"
+  "author": "nmmf (https://github.com/nmmf)",
+  "dependencies": {
+    "ckeditor": "^4.7.3"
+  }
 }
